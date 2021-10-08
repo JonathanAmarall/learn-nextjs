@@ -6,7 +6,6 @@ export default function Home() {
       <Head>
         <title>Início</title>
       </Head>
-      <h1>Jonathan</h1>
     </>
   )
 }
